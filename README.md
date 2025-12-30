@@ -1,105 +1,93 @@
-<!-- Top waving banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:696eff,100:f8acff&height=160&section=header&text=John%20Wesley&fontSize=50&animation=fadeIn&fontAlignY=32&fontColor=F0FAFF" width="100%" />
-</div>
-
-<h1 align="center">✨ Hi there, JOHN WESLEY! 👋</h1>
-
-<p align="center"><strong>Full Stack Developer • React • Django • Node.js</strong></p>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=d397fa&center=true&width=750&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Django+%7C+APIs;Building+Modern+Web+Applications;Animations+%7C+UI+Design+%7C+Databases" />
-</div>
-
----
-
-## 🌌 Hello Universe! 🚀
+<!-- 3D Banner -->
 <p align="center">
-I'm John — a passionate developer who builds fast, elegant, and scalable web applications using modern technologies like React, Django, Node.js, REST APIs, and animations.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Joh%20Wesley&fontSize=50&fontAlignY=40&desc=MERN%20Stack%20Developer%20%7C%20Full-Stack%20Engineer&descAlignY=60" />
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Modern+UI+%26+Animations;API+%26+Backend+Specialist;Faith+Driven+Tech+Builder;Open+Source+Contributor" />
 </p>
 
 ---
 
-## 📬 Connect With Me
-<div align="center">
-  <a href="mailto:saleembazhil@gmail.com"><img width="36" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Email.png"/></a>
-  <a href="#"><img width="36" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/YouTube.png"/></a>
-  <a href="#"><img width="36" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Instagram.png"/></a>
-  <a href="#"><img width="36" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Twitter.png"/></a>
-  <a href="#"><img width="36" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/LinkedIn.png"/></a>
-</div>
+## 🙋‍♂️ About Me
+- 💻 **MERN Stack Developer** (MongoDB, Express, React, Node.js)
+- ⚡ Love **animations, clean UI & scalable systems**
+- 🌱 Learning **Advanced React, APIs & System Design**
+- ✝️ Building **faith-based & motivational tech**
+- 📫 Email: **johnwesley.dev@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,gsap,nodejs,express,python,django,mongodb,postgresql&perline=7" />
-</div>
+## 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,git,github,tailwind,bootstrap,vscode,postman&perline=8" />
+</p>
 
 ---
 
-## 📊 GitHub Overview
-
-<div align="center">
-
-### ⭐ Stats (Working Mirror)
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Saleem-bazhil&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
-
-### ⭐ Most Used Languages
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Saleem-bazhil&layout=compact&theme=react" />
-
-### ⭐ GitHub Streak (Working)
-<img src="https://streak-stats.demolab.com?user=Saleem-bazhil&theme=react" width="80%" />
-
-</div>
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=johnwesley&theme=radical&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
-## 🏆 Achievements (Mirror that Works)
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saleem-bazhil&theme=algolia&margin-w=10" />
-</div>
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=johnwesley&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnwesley&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnwesley&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 🔥 Recent Activity (GitHub Native — Always Works)
-<div align="center">
-  <img src="https://ghchart.rshah.org/Saleem-bazhil" width="85%" />
-</div>
+## 🚀 Featured Projects
+<p align="center">
+  <a href="https://github.com/johnwesley">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=johnwesley&repo=mern-ecommerce&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/johnwesley">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=johnwesley&repo=animated-portfolio&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
-## 🌐 Connect
-<div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:saleembazhil@gmail.com"><img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://bazhilgroups.in"><img src="https://img.shields.io/badge/Portfolio-008C73?style=for-the-badge&logo=readme&logoColor=white"/></a>
-</div>
-
-<div align="center" style="margin-top:10px;">
-  <img src="https://komarev.com/ghpvc/?username=Saleem-bazhil&style=for-the-badge&color=brightgreen" />
-</div>
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://instagram.com/yourprofile">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+  </a>
+</p>
 
 ---
 
-<!-- Footer Wave -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8acff,100:696eff&height=120&section=footer" width="100%" />
-</div>
+## ✝️ Faith Quote
+<p align="center">
+  <i>“Commit your work to the Lord, and your plans will succeed.” — Proverbs 16:3</i>
+</p>
 
-<p align="center"><sub>Built with ❤️ by <strong>John Wesley</strong></sub></p>
+---
 
-<!--
-**alpha171017-cyber/alpha171017-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🐍 Contribution Snake (AUTO)
+<p align="center">
+  <img src="https://github.com/johnwesley/johnwesley/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=johnwesley&label=Profile%20Views&color=blue&style=flat" />
+</p>
+
+<p align="center">⚡ Built with ❤️ | Markdown • GitHub • MERN</p>

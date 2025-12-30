@@ -15,7 +15,7 @@
 - ⚡ Love **animations, clean UI & scalable systems**
 - 🌱 Learning **Advanced React, APIs & System Design**
 - ✝️ Building **faith-based & motivational tech**
-- 📫 Email: **johnwesley.dev@gmail.com**
+- 📫 Email: **johnwesley1055@gmail.com**
 
 ---
 

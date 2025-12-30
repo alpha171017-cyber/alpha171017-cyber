@@ -1,6 +1,6 @@
 <!-- Glassmorphism Animated Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Joh%20Wesley&fontSize=52&fontColor=ffffff&desc=Elite%20MERN%20Stack%20Developer%20•%20UI%20Architect&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=John%20Wesley&fontSize=52&fontColor=ffffff&desc=Elite%20MERN%20Stack%20Developer%20•%20UI%20Architect&descAlignY=70" />
 </p>
 
 <!-- Neon Typing -->

@@ -13,7 +13,7 @@
 ## 👨‍💻 Who Am I?
 ```ts
 const developer = {
-  name: "Joh Wesley",
+  name: "John Wesley",
   role: "Elite MERN Stack Developer",
   focus: ["Performance", "UI Animations", "Scalable APIs"],
   currentlyBuilding: "Next-gen Web Experiences",
